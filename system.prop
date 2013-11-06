@@ -1,0 +1,6 @@
+#
+# system.prop for nicki
+#
+
+ro.sf.lcd_density=240
+
