@@ -32,3 +32,4 @@ USE_CAMERA_STUB := true
 
 -include vendor/sony/nicki/BoardConfigVendor.mk
 include device/sony/nicki/BoardConfigCommon.mk
+

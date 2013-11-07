@@ -30,3 +30,4 @@ PRODUCT_NAME := full_nicki
 PRODUCT_DEVICE := nicki
 PRODUCT_BRAND := Android
 PRODUCT_MODEL := Full Android on Xperia M
+

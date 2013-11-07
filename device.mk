@@ -19,3 +19,4 @@ $(call inherit-product, device/sony/nicki/device-common.mk)
 
 # inherit from the non-open-source side, if present
 $(call inherit-product-if-exists, vendor/sony/nicki/device-vendor.mk)
+
