@@ -43,3 +43,11 @@ PRODUCT_PACKAGES := \
 
 PRODUCT_CHARACTERISTICS := phone
 
+# Graphics libraries
+PRODUCT_PACKAGES += \
+	libgenlock \
+	liboverlay \
+	hwcomposer.msm8960 \
+	gralloc.msm8960 \
+	copybit.msm8960
+
